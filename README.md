@@ -2,10 +2,10 @@
 Illustration of how micro frontend architecture is achieved
 
 ## What are Microfrontends
-Micro frontends are small apps that are individually developed and maintained applications that can be integrated into a main application also reffered as container
+Micro frontends are small apps that are individually developed and maintained and can be integrated into a main application also referred as container
 
 ## What are the ways to achieve the Microfrontend arcitecture?
-There are different approaches in itegration of Microfrontends into a main application/ Container, they are catogrized into three types.
+There are different approaches in itegration of Microfrontends into a main application/ Container, they are catogrized into following types.
 
 1. Build-Time integration
 2. Run-Time integration
