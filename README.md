@@ -31,3 +31,4 @@ PRO - can be independently deployed
     - different versions of a microfrontend can be deployed and container can choose at any point of time.
 
 CONS - setup is complex as webpack has to be installed and has to be maintained the same accross developers
+
